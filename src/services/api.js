@@ -1,4 +1,4 @@
-const BASE_URL = 'http://api.vkharchenko.online:3000'
+const BASE_URL = 'https://api.vkharchenko.online'
 
 class API {
     _makeRequest(url, options) {
